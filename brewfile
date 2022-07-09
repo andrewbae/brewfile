@@ -9,6 +9,8 @@ cask 'visual-studio-code'
 cask 'docker'
 cask 'sourcetree'
 cask 'dbeaver-community'
+cask 'notion'
+cask 'discord'
 
 # brew
 brew 'python3'
