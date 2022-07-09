@@ -1,0 +1,17 @@
+# cask
+cask 'intellij-idea'
+cask 'spotify'
+cask 'brave-browser'
+cask 'spotify'
+cask 'sublime-text'
+cask 'spectacle'
+cask 'visual-studio-code'
+cask 'docker'
+cask 'sourcetree'
+cask 'dbeaver-community'
+
+# brew
+brew 'python3'
+brew 'wget'
+brew 'gnupg'
+brew 'pinentry-mac'
