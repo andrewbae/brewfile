@@ -1,5 +1,5 @@
 # cask
-cask 'intellij-idea'
+cask 'intellij-idea-ce'
 cask 'spotify'
 cask 'brave-browser'
 cask 'spotify'
