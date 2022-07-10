@@ -1,7 +1,7 @@
 # cask
 cask 'intellij-idea-ce'
 cask 'spotify'
-cask 'brave-browser'
+cask 'google-chrome'
 cask 'spotify'
 cask 'sublime-text'
 cask 'spectacle'
@@ -11,6 +11,7 @@ cask 'sourcetree'
 cask 'dbeaver-community'
 cask 'notion'
 cask 'discord'
+cask 'postman'
 
 # brew
 brew 'python3'
