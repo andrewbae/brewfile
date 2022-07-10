@@ -12,6 +12,7 @@ cask 'dbeaver-community'
 cask 'notion'
 cask 'discord'
 cask 'postman'
+cask 'keka'
 
 # brew
 brew 'python3'
@@ -23,3 +24,4 @@ brew 'vim'
 brew 'curl'
 brew 'wget'
 brew 'gradle'
+brew 'docker-compose'
