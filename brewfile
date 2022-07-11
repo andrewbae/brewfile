@@ -13,6 +13,7 @@ cask 'notion'
 cask 'discord'
 cask 'postman'
 cask 'keka'
+cask 'figma'
 
 # brew
 brew 'python3'
