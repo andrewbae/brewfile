@@ -14,6 +14,7 @@ cask 'discord'
 cask 'postman'
 cask 'keka'
 cask 'figma'
+cask 'jetbrains-toolbox'
 
 # brew
 brew 'python3'
